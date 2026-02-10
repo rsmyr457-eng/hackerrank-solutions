@@ -1,7 +1,7 @@
 # Platform: HackerRank
 # Language: Python
 # Problem: https://www.hackerrank.com/challenges/python-arithmetic-operators/problem?isFullScreen=true
-# Day: 00
+# Day: 01
 # Difficulty: introduction
 # Solution
 a=int(input())
