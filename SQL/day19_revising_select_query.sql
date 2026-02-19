@@ -1,6 +1,6 @@
 -- Platform: HackerRank
 -- Language: SQL
--- Day: 18
+-- Day: 19
 -- Problem: https://www.hackerrank.com/challenges/weather-observation-station-11/problem?isFullScreen=true
 -- Difficulty: Easy
 --solution 
